@@ -7,7 +7,7 @@
 
 このワークでは、夜の十字路にヘカテが《Justice》の姿で現れ、「あれでよかったのか？」と問いかけてきます。
 
-<img src="justuce.jpg" width="300">
+<img src="justice.jpg" width="300">
 
 ---
 
