@@ -82,4 +82,7 @@
 
 🕯️ このワークは内的な儀式です。特別な道具は不要ですが、Justiceカードを前に置いたり、キャンドルを灯したり、ワーク後に日記をつけることもおすすめです。
 
-© 2025 Ravensgate-Tux. この文書は [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) のもと公開されています。
+---
+
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
